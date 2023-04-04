@@ -1,0 +1,21 @@
+.btn-pink {
+	background-color:lightpink; 
+	color: white;
+	line-height: 5;
+	padding: 25px 30px;
+	border-radius: 10px;
+}
+
+.btn-pink:hover {
+	background-color: lightpink;
+	color: black;
+}
+
+#btn-white {
+	background-color: rgba(300, 300, 300, 0.7); 
+	color: black;
+	line-height: 1;
+	padding: 25px 30px;
+	border-radius: 10px;
+	text-align: center;
+}
